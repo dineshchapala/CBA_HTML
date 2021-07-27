@@ -1,0 +1,23 @@
+*{
+    margin: 0 auto;
+    max-width:  960px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formElements{
+    padding: 20px 20px;
+    background-image: linear-gradient(to right, rgb(199, 162, 162) , rgb(233, 233, 162));;
+}
+fieldset{
+    border:1px solid black;
+}
+input{
+    font-size: medium;
+    padding: 5px 10px ;
+margin: 5px 20px;
+border: none;
+border-radius: 20px;
+}
+input:hover{
+    border:none
+}
